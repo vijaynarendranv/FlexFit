@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#271F1F"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toobar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#220B37"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:titleTextColor="#fff"
+        app:title="FlexFit"
+        />
+
+
+
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none">
+
+
+
+      <LinearLayout
+          android:paddingTop="4dp"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="1dp"
+          android:orientation="vertical">
+
+          <LinearLayout
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_margin="10.0dp"
+              android:layout_marginTop="1.0dp"
+              android:background="@drawable/backgroundcrop"
+              android:orientation="vertical">
+
+              <LinearLayout
+
+                  android:onClick="lessthan18"
+                  android:layout_width="fill_parent"
+                  android:layout_height="150.0dp"
+                  android:layout_gravity="center"
+                  android:gravity="center"
+                  android:orientation="horizontal">
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1.0"
+                      android:orientation="vertical"
+                      >
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:fontFamily="monospace"
+                          android:padding="5.0dp"
+                          android:text="Less Than 18"
+                          android:textColor="#ff000000"
+                          android:textSize="20.0dp"
+                          android:textStyle="bold">
+
+                      </TextView>
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:fontFamily="serif"
+                          android:padding="5.0dp"
+                          android:text="Days 60"
+                          android:textSize="20.0dp"
+                          android:textStyle="bold">
+
+                      </TextView>
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:padding="5.0dp"
+                          android:text="Everyday 15 MIN"
+                          android:textColor="#ffff5722"
+                          android:textStyle="bold"/>
+
+                      </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="2.0">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/exersice_6"
+                        />
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="0.0"
+                      >
+
+                      <ImageView
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:padding="10.0dp"
+                          android:src="@drawable/baseline_keyboard_arrow_right_24"
+                          />
+                  </LinearLayout>
+              </LinearLayout>
+
+              <Button
+                  android:id="@+id/startex"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="10.0dp"
+                  android:background="@drawable/btn"
+                  android:text="You Will"
+                  android:textAllCaps="true"
+                  android:textColor="#fff"/>
+
+          </LinearLayout>
+
+          <LinearLayout
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_margin="10.0dp"
+              android:layout_marginTop="15.0dp"
+              android:background="@drawable/backgroundcrop"
+              android:orientation="vertical">
+
+              <LinearLayout
+                  android:onClick="greaterthan18"
+                  android:layout_width="fill_parent"
+                  android:layout_height="150.0dp"
+                  android:layout_gravity="center"
+                  android:gravity="center"
+                  android:orientation="horizontal">
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1.0"
+                      android:orientation="vertical"
+                      >
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:fontFamily="monospace"
+                          android:padding="5.0dp"
+                          android:text="Greater Than 18"
+                          android:textColor="#ff000000"
+                          android:textSize="20.0dp"
+                          android:textStyle="bold">
+
+                      </TextView>
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:fontFamily="serif"
+                          android:padding="5.0dp"
+                          android:text="Days 60"
+                          android:textSize="20.0dp"
+                          android:textStyle="bold">
+
+                      </TextView>
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:padding="5.0dp"
+                          android:text="Everyday 15 MIN"
+                          android:textColor="#ffff5722"
+                          android:textStyle="bold"/>
+
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="2.0">
+
+                      <pl.droidsonroids.gif.GifImageView
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:src="@drawable/exersice_4"
+                          />
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="0.0"
+                      >
+
+                      <ImageView
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:padding="10.0dp"
+                          android:src="@drawable/baseline_keyboard_arrow_right_24"
+                          />
+                  </LinearLayout>
+              </LinearLayout>
+
+              <Button
+                  android:id="@+id/startex2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="10.0dp"
+                  android:background="@drawable/btn"
+                  android:text="You Will"
+                  android:textAllCaps="true"
+                  android:textColor="#fff"/>
+
+          </LinearLayout>
+
+          <LinearLayout
+
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="15.0dp"
+              android:layout_margin="10.0dp"
+              android:background="@drawable/backgroundcrop"
+              android:orientation="vertical"
+              >
+
+              <LinearLayout
+                  android:onClick="food"
+                  android:layout_width="fill_parent"
+                  android:layout_height="150.0dp"
+                  android:layout_gravity="center"
+                  android:gravity="center"
+                  android:orientation="horizontal">
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1.0"
+                      android:orientation="vertical">
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:fontFamily="monospace"
+                          android:padding="5.0dp"
+                          android:text="Tips"
+                          android:textColor="#ff000000"
+                          android:textSize="20.0dp"
+                          android:textStyle="bold"
+                          ></TextView>
+
+                      <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:padding="5.0dp"
+                          android:text="Watch It"
+                          android:textStyle="bold"
+                          />
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="2.0"
+                      >
+
+                      <ImageView
+                          android:layout_width="fill_parent"
+                          android:layout_height="wrap_content"
+                          android:src="@drawable/aaaa"/>
+
+
+
+
+                  </LinearLayout>
+                      <LinearLayout
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:layout_weight="0.0"
+                          >
+                          <ImageView
+                              android:layout_width="fill_parent"
+                              android:layout_height="wrap_content"
+                              android:padding="10.0dp"
+                              android:src="@drawable/baseline_keyboard_arrow_right_24"
+                              />
+                      </LinearLayout>
+              </LinearLayout>
+          </LinearLayout>
+
+
+
+
+      </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>
+

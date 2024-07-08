@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">FlexFit</string>
+    <string name="image">Image</string>
+
+
+    <string name="nav_draw_open">Open Navigation drawer</string>
+    <string name="nav_draw_close">Close Navigation drawer</string>
+
+
+    <string name="pose1">       Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+        Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+        Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+        Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">       Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base of your head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">       Step 1:- This movement is performed with a bench and a foot stool.\n\n
+        Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+        Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+        Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+        Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">       Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+        Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+        Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+        Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">       Step 1:- Lay down with your hands to your sides for support. \n\n
+        Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+        Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">       Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+        Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+        Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+        Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">       Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+        Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+        Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+        Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">       Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+        Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">      Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+        Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">      Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+        Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">      Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+        Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+        Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+        Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">      Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+        Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">      Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+        Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+        Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">      Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+        Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+        Step 3:- Head will follow chest action. </string>
+
+
+    <string-array name="title_story">
+
+        <item>Staying Fit </item>
+        <item>Staying Healthy</item>
+        <item>Tips for Workout</item>
+        <item>Reduce Belly Fat</item>
+        <item>Gaining Weight</item>
+        <item>Maintaining Muscles</item>
+        <item>Staying Hydrated</item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>Staying Fit:- \n\n Be physically active for 30 minutes most days of the week. \n Break this up into three 10-minute sessions when pressed for time. \n Healthy movement may include walking, sports, dancing, yoga, running or other activities you enjoy. \n Eat a well-balanced, low-fat diet with lots of fruits, vegetables and whole grains. \n Choose a diet that low in saturated fat and cholesterol, and moderate in sugar, salt and total fat. \n Avoid injury by wearing seatbelts and bike helmets, using smoke and carbon monoxide detectors in the home, and using street smarts when walking alone. \n If you own a gun, recognize the dangers of having a gun in your home. \n Use safety precautions at all times. \n Don\'t smoke, or quit if you do. Ask your health care provider for help. </item>
+        <item>Staying Healthy:- \n\n Starchy carbohydrates should make up just over a third of the food you eat. They include potatoes, bread, rice, pasta and cereals.\n
+
+    Choose higher fibre or wholegrain varieties, such as wholewheat pasta, brown rice or potatoes with their skins on.\n
+
+    They contain more fibre than white or refined starchy carbohydrates and can help you feel full for longer.\n
+
+    Try to include at least 1 starchy food with each main meal. Some people think starchy foods are fattening, but gram for gram the carbohydrate they contain provides fewer than half the calories of fat.\n
+
+    Keep an eye on the fats you add when you\'re cooking or serving these types of foods because that\'s what increases the calorie content – for example, oil on chips, butter on bread and creamy sauces on pasta.\n
+    </item>
+        <item>Tips for Workout:- \n\n These seven tips can keep your strength training safe and effective.\n
+
+    Warm up and cool down for five to 10 minutes. Walking is a fine way to warm up; stretching is an excellent way to cool down.\n
+    Focus on form, not weight. Align your body correctly and move smoothly through each exercise. Poor form can prompt injuries and slow gains. When learning a strength training routine, many experts suggest starting with no weight, or very light weight. Concentrate on slow, smooth lifts and equally controlled descents while isolating a muscle group.
+    Working at the right tempo helps you stay in control rather than compromise strength gains through momentum. For example, count to three while lowering a weight, hold, then count to three while raising it to the starting position.
+    Pay attention to your breathing during your workouts. Exhale as you work against resistance by lifting, pushing, or pulling; inhale as you release.\n
+
+            </item>
+        <item>Reduce Belly Fat:-\n\n Try curbing carbs instead of fats.\n
+    When Johns Hopkins researchers compared the effects on the heart of losing weight through a low-carbohydrate diet versus a low-fat diet for six months—each containing the same amount of calories—those on a low-carb diet lost an average of 10 pounds more than those on a low-fat diet—28.9 pounds versus 18.7 pounds. An extra benefit of the low-carb diet is that it produced a higher quality of weight loss, Stewart says. With weight loss, fat is reduced, but there is also often a loss of lean tissue (muscle), which is not desirable. On both diets, there was a loss of about 2 to 3 pounds of good lean tissue along with the fat, which means that the fat loss percentage was much higher on the low-carb diet.\n
+    Think eating plan, not diet.\n
+    Ultimately, you need to pick a healthy eating plan you can stick to, Stewart says. The benefit of a low-carb approach is that it simply involves learning better food choices—no calorie-counting is necessary. In general, a low-carb way of eating shifts your intake away from problem foods—those high in carbs and sugar and without much fiber, like bread, bagels and sodas—and toward high-fiber or high-protein choices, like vegetables, beans and healthy meats.\n
+    Keep moving.\n
+    Physical activity helps burn abdominal fat. “One of the biggest benefits of exercise is that you get a lot of bang for your buck on body composition,” Stewart says. Exercise seems to work off belly fat in particular because it reduces circulating levels of insulin —which would otherwise signal the body to hang on to fat—and causes the liver to use up fatty acids, especially those nearby visceral fat deposits, he says.\n
+    </item>
+        <item>Gaining Weight:-\n\n Eating more frequently. Slowly begin to eat 5 to 6 smaller meals during the day. Try to tune into your body to recognize when you might be hungry. But you may need to plan times to eat even if you aren\'t that hungry.\n
+    Choosing food with lots of nutrients. Set up a routine to eat and drink things you like and that have a lot of nutrients as well as calories.\n Talk with your health care provider or dietitian about how many calories to eat a day or in each meal. You also can ask how many servings you should eat of the different food groups.\n
+    Top it off. Add extras to your dishes for more calories, such as cheese in casseroles or nut butter on whole-grain toast. You also can add dry milk or liquid milk to foods for extra protein and calories. Some examples are mashed potatoes or soups.\n
+    Try smoothies and shakes. Avoid beverages with few nutrients or calories, such as diet soda. But a blend of high-calorie, nutritious ingredients in a smoothie or shake can help if you\'re eating on the go. Meal replacement drinks also may be part of your weight-gain effort.\n
+    But watch what and when you drink. Beverages can make you feel full. If that\'s the case for you, avoid drinking during a meal or before. But make sure you are drinking enough throughout the day.\n
+    Exercise. Exercise, especially strength training, can help you gain weight by building up your muscles. Exercise also may stimulate your appetite.\n</item>
+        <item>Maintaining Muscles:-\n\n Increase Core Strength\n
+    Core strength is absolutely imperative to our overall health and well-being, especially when it comes to building balance. Research indicates that core strength exercises can also improve balance and stability.\n
+
+    When you think of your core, you may just think of your abdominal muscles. While the abdominal muscles are a part of it, your core is made up of all of the muscles between your shoulders and your hips—basically the trunk of your body. It\'s also what provides support for your bones and keeps your musculoskeletal system working properly.\n
+
+    To strengthen your core, you want to strengthen the abdominal muscles, including the obliques; the muscles in the back, including the spinal erectors; and the muscles of the pelvic floor.\n
+    </item>
+        <item>Staying Hydrated:-\n\n Drink a glass of water first thing in the morning!\n
+    Drink a glass of water as soon as you wake up in the mornings. Or take a drink while you are brewing that morning coffee or tea.\n
+
+    Carry a water bottle with you.\n
+    You are more likely to drink water if it is with you. It is also cheaper to fill up your water bottle throughout the day than buying bottles of water.\n
+
+    Flavor your water!\n
+    Adding a few lemon slices, strawberries, or cucumbers to your water can add a whole new taste. Try adding frozen blueberries as ice cubes.\n
+
+    Take water breaks!\n
+    Take a few sips of water between work tasks, or go for a walk to the water foundation for a mental break throughout the day.\n
+
+    Eat your water!\n
+    Staying hydrated is not all about beverages, your body is able to absorb water from the foods that we eat. Foods that have a high water percentage include cantaloupe, strawberries, spinach, watermelon, peaches, bell peppers, and cucumbers.\n
+    </item>
+
+
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
